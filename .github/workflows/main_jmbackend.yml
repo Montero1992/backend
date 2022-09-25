@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'jmbackend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52DEE9A7B66E4207B96F4A3120B9D1F1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC2F7B6920A94431A93111BA6D867A4A }}
           package: .
